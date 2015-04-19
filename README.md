@@ -8,7 +8,7 @@ Directories
 ---
 
 **Config**
-
+ 
 The server configurations are stored in the [config](/tree/gh-pages/config) folder.  Each configuration goes in its gamecode’s folder.
 
 Thses can be modified manually, but it is recommended to modify them with the tool located here: ([Windows]( http://quantum64.github.io/Arcade/util/ArcadeConfig.exe), [Other]( http://quantum64.github.io/Arcade/util/ArcadeConfig.jar))
